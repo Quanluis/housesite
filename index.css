@@ -1,0 +1,17 @@
+.mainH1 {
+    color: red;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.navBar {
+    color: purple;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li {
+    display: inline;
+    padding: 1rem;
+}
